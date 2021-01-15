@@ -71,7 +71,9 @@ p {
     margin: 0 auto;
 }
 
-
+.toptxt{
+    margin-bottom:3%;
+}
 header{
  display:flex; 
  flex-wrap:wrap;
@@ -257,6 +259,7 @@ footer nav a {
 }
 .about-text{
 border-bottom: 1px dashed black;
+margin-bottom: 3%;
 }
 #learnmore{
     display:inline-flex;
@@ -273,12 +276,12 @@ border-bottom: 1px dashed black;
 }
 .learnB{
     border: 2px solid black;
-    border-radius:5px;
+    border-radius:10px;
     padding:4px;
     widows: 10%;
     text-align:center;
     margin-bottom:3%;
     margin-top:3%;
-    
-    margin-right :40%;
+    margin-left:;
+    margin-right :65%;
 }
